@@ -1,0 +1,40 @@
+_repo: Rita_24827
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Barry, Etheldred B. (Etheldred Breeze)
+    aliases:
+    - Barry, Etheldred Breeze
+    - Barry, Ethelred Breeze
+    - Barry, E. B. (Etheldred Breeze)
+    birthdate: 1870
+    gutenberg_agent_id: '6348'
+    url: http://www.gutenberg.org/2009/agents/6348
+covers:
+- cover_type: archival
+  image_path: 24827-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Richards, Laura Elizabeth Howe
+    alias: Richards, Laura E.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '1753'
+    url: http://www.gutenberg.org/2009/agents/1753
+    wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
+description: ''
+gutenberg_issued: '2008-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'Spanish-American War, 1898 -- Fiction'
+title: Rita
+url: http://www.gutenberg.org/ebooks/24827
